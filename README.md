@@ -1,2 +1,2 @@
-Anonymous Function & IIFE
+Anonymous Function & IIFE,
 Arrow Functions
